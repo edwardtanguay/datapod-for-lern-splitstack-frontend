@@ -41,4 +41,3 @@ In the frontend, easy-peasy Redux is used for straight-forward state management,
 ## ports
 
 - frontend: 3210
-- backend: 3310
